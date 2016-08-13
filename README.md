@@ -2,8 +2,8 @@
 对盒子模型的理解
 
 css3中定义了 
-    box-sizing: content-box    | border-box | inherit
-                w3c标准盒模型    IE传统盒子模型
+            box-sizing: content-box    | border-box | inherit
+                             w3c标准盒模型    IE传统盒子模型
 来改变盒子模型
 
 <p>w3c标准盒模型中盒子大小会被内容包括 content padding border撑大</p>
